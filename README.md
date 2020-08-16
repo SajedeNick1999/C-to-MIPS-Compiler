@@ -33,9 +33,8 @@ A program will be given to your code in the language that will be described. If 
 the lexical rules of the programming language, you must print the tokens of the program at the output, 
 otherwise a proper error must be generated without producing any token.  
 
-For more details : [firstPart.pdf](https://github.com/BitterOcean/IUT/files/4668399/firstPart.pdf)  
+For more details : [firstPart.pdf](https://github.com/SajedeNick1999/C-to-MIPS-Compiler/Phase3/firstPart.pdf)  
 
-Testcases : <a href="https://github.com/BitterOcean/IUT/tree/master/compiler/Project/FirstPhase/TestCase">/TestCase</a>
 
 ### **Enjoy It !**
 
@@ -47,9 +46,7 @@ Testcases : <a href="https://github.com/BitterOcean/IUT/tree/master/compiler/Pro
 
 You must write a program using bison, yacc and upload it to the LMS.A program is given to you in the language to be described, and if that program follows the lexical and syntactic rules of the language, you create a tree according to the grammar of the language and print it preorder But in case of any violation of the language rules, you should mention the line and column number as well as the name of the unauthorized token and show an appropriate error message.
 
-For more details : [secondPart.pdf](https://github.com/BitterOcean/IUT/files/5046124/secondPart.pdf)
-
-Testcases : <a href="https://github.com/BitterOcean/IUT/tree/master/compiler/Project/SecondPhase/TestCase">/TestCase</a>
+For more details : [secondPart.pdf](https://github.com/SajedeNick1999/C-to-MIPS-Compiler/Phase2/secondPart.pdf)
 
 ### **Enjoy It !**
 
@@ -61,9 +58,7 @@ Testcases : <a href="https://github.com/BitterOcean/IUT/tree/master/compiler/Pro
 
 You must write a program using bison, yacc and upload it to the LMS. Your program acts like a real compiler in that after receiving the input file, it generates a file in MIPS language so that it can be run in SPIM environment. If some macros are needed to run in SPIM environment, it is better that the compiler can generate it itself and if there is any error in the input file, it will exit without generating the output file and displaying the relevant error.
 
-For more details : [thirdPart.pdf](https://github.com/BitterOcean/IUT/files/5046126/thirdPart.pdf)  
-
-Testcases : <a href="https://github.com/BitterOcean/IUT/tree/master/compiler/Project/ThirdPhase/TestCase">/TestCase</a>
+For more details : [thirdPart.pdf](https://github.com/SajedeNick1999/C-to-MIPS-Compiler/Phase3/thirdPart.pdf)  
 
 ### **Enjoy It !**
 
@@ -74,20 +69,20 @@ Testcases : <a href="https://github.com/BitterOcean/IUT/tree/master/compiler/Pro
 ## **DOWNLOAD**  
 <p>
   &nbsp;&nbsp;:small_orange_diamond: <b>First phase :</b></br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:arrow_right: <a href="https://github.com/BitterOcean/IUT/blob/master/compiler/Project/FirstPhase/LexAnalyzer.l">LexAnalyzer.l</a></br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:arrow_right: <a href="https://github.com/BitterOcean/IUT/blob/master/compiler/Project/FirstPhase/Lex.sh">Lex.sh</a></br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:arrow_right: <a href="https://github.com/SajedeNick1999/C-to-MIPS-Compiler/Phase1/LexAnalyzer.l">LexAnalyzer.l</a></br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:arrow_right: <a href="https://github.com/SajedeNick1999/C-to-MIPS-Compiler/Phase1/Lex.sh">Lex.sh</a></br>
 </P>
 <p>
   &nbsp;&nbsp;:small_orange_diamond: <b>Second phase :</b></br>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:arrow_right: <a href="https://github.com/BitterOcean/IUT/blob/master/compiler/Project/SecondPhase/Compiler.l">Compiler.l</a></br>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:arrow_right: <a href="https://github.com/BitterOcean/IUT/blob/master/compiler/Project/SecondPhase/Compiler.y">Compiler.y</a></br>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:arrow_right: <a href="https://github.com/BitterOcean/IUT/blob/master/compiler/Project/SecondPhase/Compiler.sh">Compiler.sh</a></br>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:arrow_right: <a href="https://github.com/SajedeNick1999/C-to-MIPS-Compiler/Phase2/Compiler.l">Compiler.l</a></br>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:arrow_right: <a href="https://github.com/SajedeNick1999/C-to-MIPS-Compiler/Phase2/Compiler.y">Compiler.y</a></br>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:arrow_right: <a href="https://github.com/SajedeNick1999/C-to-MIPS-Compiler/Phase2/Compiler.sh">Compiler.sh</a></br>
 </P>
 <p>
   &nbsp;&nbsp;:small_orange_diamond: <b>Third phase :</b></br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:arrow_right: <a href="https://github.com/BitterOcean/IUT/blob/master/compiler/Project/ThirdPhase/Compiler.l">Compiler.l</a></br>  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:arrow_right: <a href="https://github.com/BitterOcean/IUT/blob/master/compiler/Project/ThirdPhase/Compiler.y">Compiler.y</a></br>  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:arrow_right: <a href="https://github.com/BitterOcean/IUT/blob/master/compiler/Project/ThirdPhase/Compiler.sh">Compiler.sh</a></br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:arrow_right: <a href="https://github.com/SajedeNick1999/C-to-MIPS-Compiler/Phase3/Compiler.l">Compiler.l</a></br>  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:arrow_right: <a href="https://github.com/SajedeNick1999/C-to-MIPS-Compiler/Phase3/Compiler.y">Compiler.y</a></br>  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:arrow_right: <a href="https://github.com/SajedeNick1999/C-to-MIPS-Compiler/Phase3/Compiler.sh">Compiler.sh</a></br>
 </P>
 
 ## **SUPPOERT**
